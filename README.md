@@ -6,7 +6,7 @@ Goal of this repo is to run macOs Catalina on Lenovo Ideapad s340-15IWL.
 
 Type | Spec | Status | Desc
 ---------|:---------:|----------:|----------
-Graphics        | Intel HD 630 Graphics | Working | Full QE/CI
+Graphics        | Intel HD 620 Graphics | Working | Full QE/CI
 HDMI            | - | Not working | -
 Audio            | - | Working | -
 WiFi            | Intel(R) Dual Band Wireless-AC 3165 | Not Working | Using TL-WN725N v3
