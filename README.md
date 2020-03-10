@@ -1,7 +1,5 @@
 # Lenovo IdeaPad s340-15IWL Hackintosh
 
-Goal of this repo is to run macOs Catalina on Lenovo Ideapad s340-15IWL.
-
 ## Hardware Status
 
 Type | Spec | Status | Desc
